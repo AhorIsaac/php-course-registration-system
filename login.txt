@@ -1,0 +1,7 @@
+admin
+secret number : 11111
+password: 11111 
+
+student 
+registration number : 19/74737/UE
+password : 19/74737/UE
